@@ -1,0 +1,21 @@
+html{
+    font-family: monospace,serif;
+    font-size: 13px;
+}
+
+h1{
+    background-color: cadetblue;
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+}
+
+h2{
+    font-size: 2rem;
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
